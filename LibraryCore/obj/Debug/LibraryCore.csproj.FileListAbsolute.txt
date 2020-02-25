@@ -1,0 +1,15 @@
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\bin\Debug\LibraryCore.exe.config
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\bin\Debug\LibraryCore.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\bin\Debug\LibraryCore.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.csprojResolveAssemblyReference.cache
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.Form1.resources
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.Properties.Resources.resources
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.csproj.GenerateResource.Cache
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.Form2.resources
+C:\Users\LaptopMSI\Documents\Visual Studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.Form3.resources
+C:\Users\LaptopMSI\Documents\Visual Studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.Form4.resources
+C:\Users\LaptopMSI\Documents\Visual Studio 2015\Projects\LibraryCore\LibraryCore\obj\Debug\LibraryCore.Form5.resources
+C:\Users\LaptopMSI\Documents\Visual Studio 2015\Projects\LibraryCore\LibraryCore\bin\Debug\MetroFramework.dll
+C:\Users\LaptopMSI\Documents\Visual Studio 2015\Projects\LibraryCore\LibraryCore\bin\Debug\MetroFramework.Fonts.dll
